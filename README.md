@@ -3,4 +3,4 @@ Levi Castro - 62221152
 
 ### Diagrama de Clases
 
-!["Diagrama de Clases"](https://app.genmymodel.com/api/projects/_ixhysFi6Ee2ck8ytUMEi6A/diagrams/_ixiZwli6Ee2ck8ytUMEi6A/svg)
+!["Diagrama de Clases"](https://app.genmymodel.com/api/projects/_MY1NwGCOEe2ck8ytUMEi6A/diagrams/_MY1Nw2COEe2ck8ytUMEi6A/svg)
